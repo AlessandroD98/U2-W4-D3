@@ -58,7 +58,7 @@ main{
     display: flex;
     flex-direction: column;
     height: 310px;
-    width: 47%;
+    /* width: 47%; */
     border: 1px solid transparent;
     border-radius: 50px;
     background-color: #fbf7e3;
